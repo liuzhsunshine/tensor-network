@@ -1,2 +1,2 @@
 # tensor-network
-Notes for tensor network, a long project, keep update
+Notes for tensor network, a long project, keep updating
